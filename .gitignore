@@ -1,0 +1,25 @@
+# Executables (Compiled shell)
+apex_shell
+vasin_shell
+
+# Object files
+*.o
+
+# Temporary files
+*.swp
+*.log
+
+# IDE specific folders
+.vscode/
+.idea/
+.DS_Store
+
+# Build directories
+build/
+bin/
+bin/
+obj/
+apex_shell
+*.txt
+vasin_shell
+*.txt
