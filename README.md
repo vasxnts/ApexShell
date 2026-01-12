@@ -1,8 +1,8 @@
-# ApexShell 🚀
+# ApexShell
 
 ApexShell is a high-performance, lightweight custom Linux shell implemented in C++ from scratch. This project was developed to explore and demonstrate core operating system concepts, such as process management, inter-process communication (IPC) via pipelines, and environment handling.
 
-## 🌟 Key Features
+## Key Features
 
 I've implemented the core features that make a shell actually usable:
 
@@ -16,7 +16,7 @@ I've implemented the core features that make a shell actually usable:
   - `cd`: Smooth navigation, including the pro-feature `cd -` to jump back to your previous directory instantly.
   - `pwd`, `echo`, `exit`: The bread and butter of any session.
 
-## 🛠 How to get it running
+## How to get it running
 
 ### What you'll need:
 - A Linux environment (WSL2 works great too).
